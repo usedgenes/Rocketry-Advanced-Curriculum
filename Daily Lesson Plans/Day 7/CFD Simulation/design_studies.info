@@ -1,0 +1,7 @@
+<cfd_design_studies user_name="Eugene" version="24.0.75">
+ <design_study folder="C:/Users/Eugene/Downloads/CFD Simulation" study_id="6318b4ea-c837-4d9d-a7a2-ce8c0098d0dc" instance_id="id_not_defined" name="CFD Simulation">
+  <design model_id="Rocket.cfdsmt" launcher_type="CP_ASM_STEP_IMPORT" lock_status="false" name="Design 1">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>
